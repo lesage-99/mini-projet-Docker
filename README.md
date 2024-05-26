@@ -8,7 +8,7 @@ This repo is a simple application to list student with a webserver (PHP) and API
 
 
 ## Application
-J'ai déployer une application nommée "student_list", très basique, qui permet à l'entreprise POZOS d'afficher la liste de certains étudiants avec leur âge.
+J'ai déployé une application nommée "student_list", très basique, qui permet à l'entreprise POZOS d'afficher la liste de certains étudiants avec leur âge.
 
 L'application student_list comporte deux modules :
 
